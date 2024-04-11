@@ -23,3 +23,11 @@ Curious to delve deeper into the project? Explore the codebase and dive into the
 
 Let's revolutionize employee retention together! 
 💼🚀 #EmployeeRetention #DataScience #AutoML #PredictiveAnalytics #GoogleCloudPlatform #BigQuery #Looker #GitHub #DataVisualization #ChurnModeling
+
+![image_2024-04-10_17-22-15](https://github.com/BhupeshDewangan/Churn-Model-for-Pilot-Program/assets/84950520/5ef2bd07-16b1-419d-a350-6124fc9cb6aa)
+![image_2024-04-10_17-19-46](https://github.com/BhupeshDewangan/Churn-Model-for-Pilot-Program/assets/84950520/f9a1af31-a798-45ee-bfbe-58f7b2642132)
+![image_2024-04-10_17-23-42](https://github.com/BhupeshDewangan/Churn-Model-for-Pilot-Program/assets/84950520/a0a8901d-33c0-4b17-bfbf-b3212507d7d3)
+![image_2024-04-10_17-20-16](https://github.com/BhupeshDewangan/Churn-Model-for-Pilot-Program/assets/84950520/bcd75ae3-ac54-47f3-a039-f5b451d48f44)
+
+
+
